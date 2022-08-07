@@ -11,6 +11,9 @@ export default function TaskInput() {
         initialValues: {
             taskName: '',
         },
+        validate: {
+            taskName: (value) => (value.length > 0 ? null : 'Task name is required'),
+        }
     });
 
     function onSubmit(values: any) {
