@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/PeanutButte7/todo-app/blob/master/src/assets/preview.png">
+  <img src="https://github.com/PeanutButte7/todo-app/blob/master/assets/preview.png">
 </p>
 
 
